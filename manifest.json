@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Bookmark",
+    "version": "1.0.1",
+     "action": {
+    "default_icon": {              
+      "16": "icon.png",   
+      "24": "icon.png",   
+      "32": "icon.png"    
+    },  
+    "default_popup": "index.html"  
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
