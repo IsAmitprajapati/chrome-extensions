@@ -1,2 +1,3 @@
 # chrome-extensions
-add you favorites to your app 
+
+This extension for bookmark of url
